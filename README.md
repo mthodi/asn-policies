@@ -57,3 +57,23 @@ The dataset accompanies the paper below.
 ## References
 To read more about the methodology used or to cite this dataset,
 please see;
+
+
+```bash
+@inproceedings{thodi2024ASNPol,
+author = {Thodi, Martin and Chavula, Josiah and Phokeer, Amreesh},
+title = {Poster: A Dataset on Peering Policies of Autonomous Systems},
+year = {2024},
+isbn = {9798400705922},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3646547.3689667},
+doi = {10.1145/3646547.3689667},
+booktitle = {Proceedings of the 2024 ACM on Internet Measurement Conference},
+pages = {761–762},
+numpages = {2},
+location = {Madrid, Spain},
+series = {IMC '24}
+}
+
+```
