@@ -1,0 +1,1146 @@
+name,asn,peeringdb,manrs,noc,rpki,IRR,min_coverage,traffic_ratio,traffic_volume,pni_volume,routing_practice,no_customer,no_customer_of_customer,min_transit_customer_req,consistent_routes,paid_peering
+MPLINE TELECOM AS269657,AS269657,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+GoCodeIT Inc AS62513,AS62513,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Rifqi Arief Pamungkas AS200579 AS200579,AS200579,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+KIXP - Mombasa AS37770,AS37770,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Borneo Global Persada AS150915,AS150915,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+VOJA AS208723,AS208723,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+AS207960 Cyfyngedig AS207960,AS207960,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Intercol Telecomunicações AS53047,AS53047,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Salesforce.com AS14340,AS14340,1,0,0,0,0,4c,0,-,-,closest-exit,0,0,-,0,0
+Mediatech Communication AS136699,AS136699,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Community IX Holdings AS63221,AS63221,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+PRISMA MEDIA NUSANTARA AS139977,AS139977,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+"Misaka Network, Inc. (Asia) AS23961",AS23961,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+STIX ROUTE SERVER AS64153,AS64153,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+JSMSR NetWork AS199605,AS199605,1,0,0,0,0,1c,0,-,-,-,0,0,-,0,0
+NIC.br - OpenCDN AS61580,AS61580,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Giga Digital Nusantara AS141145,AS141145,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+NetActuate AS36236,AS36236,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+SteveYi Network Service (Experimental) AS141173,AS141173,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+WEST263GO-HK AS139021,AS139021,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Liberty Global AS6830,AS6830,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+OuO Network AS215276,AS215276,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Frumentum Media AS216107,AS216107,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+GINERNET AS59432,AS59432,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Zenlayer Inc AS21859,AS21859,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Alfanews AS197589,AS197589,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+RGnet AS3130,AS3130,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+OGIX Services AS400598,AS400598,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+BGP.Tools Route Collector AS212232,AS212232,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+S-NET Sp. z o.o. AS42927,AS42927,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+"Orange Business Services Britain, Western Africa AS4004",AS4004,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Foxline Network AS136078 AS136078,AS136078,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Infopact Netwerk & Communicatie AS21221,AS21221,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Skywolf Cloud AS7720,AS7720,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Raquel Storch Almeida de Oliveira AS268665,AS268665,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Smishcraft Hosting AS210667,AS210667,1,0,1,0,0,-,0,-,1gbps,-,0,0,-,0,0
+Roman Sartov AS207301,AS207301,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+HashTable AS36262,AS36262,1,0,1,0,0,m,0,-,-,-,0,0,-,0,0
+Alioth Systems AS212068,AS212068,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Linkt AS44407,AS44407,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Freifunk Hamburg AS49009,AS49009,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Zappie Host AS7719 AS7719,AS7719,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SIT Internetdiensten B.V. AS61044,AS61044,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+67 Telecom - AS267276 AS267276,AS267276,1,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Portfast Ltd AS8916,AS8916,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Edgio - AS55429 - India AS55429,AS55429,0,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+Arexico AS48700,AS48700,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Milehighwalrus Network - West AS13780,AS13780,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Global Sarana Elektronika AS147131,AS147131,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Visa Consolidated Support Services India AS135858,AS135858,1,0,1,0,1,m,0,-,-,-,0,0,-,1,0
+Michael Newcomb AS197841,AS197841,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+REDESUL TELECOM AS61688,AS61688,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Noah van der Aa AS197919,AS197919,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+CIPTA TRIMETIKA AS139405,AS139405,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Computacenter (UK) AS56474,AS56474,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Panascais AS211757,AS211757,1,0,1,1,0,-,0,-,1gbps,-,0,0,-,0,0
+backbone.direct AS50917,AS50917,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+ioHarbor AS951,AS951,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+FSlab AS203577,AS203577,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Ora Servicos de Telecomunicacoes Ltda AS264294,AS264294,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Webfoco Telecom AS52720,AS52720,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+GLOBAL BANDA LARGA SERVICOS DE TELECOMUNICACOES AS267522,AS267522,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+MELSA AS9657,AS9657,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+"Wuhan LSHIY Network Technology Co., Ltd. AS24144",AS24144,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Open Peering AS20562,AS20562,1,0,1,0,1,m,0,-,-,-,0,0,-,1,0
+Sargasso Networks Ltd. (UK) AS42579,AS42579,1,0,1,0,1,-,1:1,-,50mbps,-,0,0,-,0,0
+Riot Games AS6507,AS6507,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+xTom Australia Legacy AS23858,AS23858,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+BUSAJM MARIANA (RACK DIGITAL) AS267679,AS267679,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+10VPN Research Network AS49134,AS49134,0,0,1,1,1,m,0,-,-,-,0,0,-,0,0
+TAMUKAI NETWORK R AS199108,AS199108,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+rack.black AS34182,AS34182,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Microsoft AS8075,AS8075,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+BittenBytes AS213052,AS213052,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Yixi Meta AS202338,AS202338,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+"Oneiric Systems, LLC AS53948",AS53948,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+DpkgSoft International Limited AS215590,AS215590,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Dedi Susanto AS215674,AS215674,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Jinom Network Indonesia AS138064,AS138064,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Spadhausen AS62166,AS62166,1,1,1,0,1,-,0,-,-,-,0,0,-,0,0
+Globo Comunicação e Participações S.A. AS28604,AS28604,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+MCT Japan AS45687,AS45687,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SteveYi AS60614,AS60614,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+tbspace AS203478,AS203478,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Altopia Corporation AS6456,AS6456,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Gerdriaan Mulder AS206292,AS206292,1,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+xTom Africa AS328383,AS328383,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Applied Operations AS40475,AS40475,0,0,1,0,1,-,0,-,-,-,0,0,-,1,0
+INFO TELECOM INTERNET LTDA AS265949,AS265949,1,0,1,0,1,6c,0,-,-,-,0,0,-,1,0
+ZetServers AS25198,AS25198,1,0,0,0,0,-,0,1gbps,-,-,0,0,-,0,0
+ISOC Research Network AS141384,AS141384,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+PLUTEX AS49855,AS49855,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Exascale AS61049,AS61049,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Fubuki Network AS212425,AS212425,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Baffin Bay Networks AS42649,AS42649,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Rede Brasil Networks AS268205,AS268205,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+LONAP (incl Route Collector) AS8330,AS8330,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Helix-IX AS211738,AS211738,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Roxonic Systems AS142289,AS142289,1,1,0,0,1,-,0,-,-,-,0,0,-,0,0
+Posix Systems AS6083,AS6083,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+XMission AS6315,AS6315,1,0,0,0,1,-,0,-,-,-,0,0,-,1,0
+AZISTA GmbH AS20751,AS20751,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Apple CDN AS6185,AS6185,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Cloudie Networks AS924,AS924,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+ESEVEN DevOps GmbH AS48927,AS48927,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Edgio - AS60261 - UAE AS60261,AS60261,0,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+Haruka Network AS197860,AS197860,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Exodo LLC AS26006,AS26006,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Stadtwerke Lübeck AS29505,AS29505,1,0,1,1,0,-,0,-,-,-,0,0,-,0,0
+PRISMAREDE Network AS267562,AS267562,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Iconic Internet AS46766,AS46766,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Purevoltage Hosting Inc. AS26548,AS26548,0,0,0,0,0,1c,0,-,-,-,0,0,-,0,0
+Tsung-Yi Yu AS209557 AS209557,AS209557,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SDCC OpenNetwork AS38074,AS38074,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Guardfox AS25455,AS25455,0,1,0,0,0,-,50,2gbps,2gbps,-,0,0,-,0,0
+ZH NETWORK AS202888,AS202888,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+TWDX IP AS27552,AS27552,1,0,1,0,0,-,0,-,-,-,1,0,-,1,0
+DENIC eG AS8763,AS8763,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+"Misaka Network, Inc. (CIS) AS57578",AS57578,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+NEBEL AS212049,AS212049,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+NATIX AS33175,AS33175,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Poema Network AS203472,AS203472,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+edisonlee55 Network AS212279,AS212279,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Triple Zhi Network AS150551,AS150551,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Connectium AS211713,AS211713,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Fantasy Sky Internet eXchange AS139073,AS139073,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+URBAN WAVE INTERNET SOLUTIONS AS328745,AS328745,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Pigeon Telecom AS198304,AS198304,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Kinako Network AS198376,AS198376,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Meta AS32934,AS32934,1,0,1,0,0,2c,0,-,-,-,0,0,-,0,0
+tyntec AS43566,AS43566,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+GreenYun AS134575,AS134575,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Wan4u AS328747,AS328747,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Edgio - AS38622 - Australia AS38622,AS38622,0,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+NAV Communications AS6718,AS6718,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Easy Connection Internet AS268637,AS268637,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Raidio Telefis Eireann AS41073,AS41073,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+3E TELECOM AS61924,AS61924,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Lily Network AS203236,AS203236,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Massar's Network AS57777,AS57777,1,1,0,1,1,-,0,-,-,-,0,0,-,0,0
+Cape Connect Internet AS37640,AS37640,0,0,1,0,1,m,0,-,-,shortest-exit,0,0,-,1,0
+Cyber Network Indonesia AS38496,AS38496,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Lintasdata Network AS139449,AS139449,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+IVO by D.t.s. S.r.l. AS49605,AS49605,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+MegaHostZone AS132563,AS132563,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Cloudpath AS33570,AS33570,1,0,1,0,0,1c,0,-,-,-,0,0,-,1,0
+Orange Business Services Southern Europe AS6853,AS6853,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Tritan Internet LLC AS393577,AS393577,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+X2com BV AS58075,AS58075,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+xTom Los Angeles AS949,AS949,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+BalajiInternet AS133702,AS133702,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+pob.network AS200219,AS200219,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Sona Business AS60022,AS60022,1,0,1,0,1,-,0,50mbps,1gbps,-,0,0,-,0,0
+TDS Telecom AS4181,AS4181,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Frank's Network AS211042,AS211042,1,0,0,0,1,2c,0,-,-,-,0,0,-,0,0
+OSNET Wireless AS21559,AS21559,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Axera AS13097 AS13097,AS13097,1,1,0,1,1,-,0,-,-,-,0,0,-,1,0
+RHE-NET AS51044,AS51044,1,0,1,1,1,1c,0,-,-,-,0,0,-,0,0
+Starry - NY AS27611,AS27611,0,0,0,0,0,-,0,100mbps,-,-,0,0,-,0,0
+Caspel AS207251,AS207251,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+CacheFly AS30081,AS30081,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Route56 Perjuangan AS216412,AS216412,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Fusion Voice and Data AS393731,AS393731,1,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+C. H. PADILHA EIRELI AS270679,AS270679,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Energy Sciences Network (ESnet) AS293,AS293,1,1,1,1,1,-,0,-,-,-,0,0,-,1,0
+ZX Education And Research Network AS139317,AS139317,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+internezzo AS206087,AS206087,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+KlickKlack Communications AS131645,AS131645,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Prolocation AS41887,AS41887,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+xTom GmbH AS3214,AS3214,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Kenstar Web Solutions AS138329,AS138329,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+FT Fibra Telecom LTDA AS271606,AS271606,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+"Path Network, Inc. AS396998",AS396998,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+JINZE YANG AS205794,AS205794,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+May Mobility AS398351,AS398351,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Vocus Communications AS4826,AS4826,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+O L I Telecomunicações AS263155,AS263155,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+AS212635 AS212635,AS212635,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+btIX TTPL-LAN AS17482,AS17482,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Conexão Bahia Sul AS268674,AS268674,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Chevron AS7862,AS7862,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+67 Telecom - AS61614 AS61614,AS61614,1,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+eircom AS5466,AS5466,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Openface AS11478,AS11478,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+31173 Services AS39351,AS39351,0,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+HUAJINET Internet AS149835,AS149835,0,0,1,1,0,-,0,-,-,-,0,0,-,0,0
+ByteAnia AS212582,AS212582,1,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+GGNET TELECOM BACKBONE AS53062,AS53062,1,1,1,1,1,-,0,-,-,-,0,0,-,0,0
+Ameliorate Laboratories AS396476,AS396476,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Keiibiin's Holdings Limited AS148971,AS148971,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Dimensi Jaringan Bersinar AS149951,AS149951,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+PIT - Guatemala - Ciudad de Guatemala Route Server AS64157,AS64157,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+PT Telekomunikasi Internet Indonesia AS142332,AS142332,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Ify Host AS7487,AS7487,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+INOC Data Centers AS22302,AS22302,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+cupaco AS212580 AS212580,AS212580,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+dlbNetworks AS151413,AS151413,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Nessus GmbH AS47692,AS47692,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Thales Services Numériques AS29104,AS29104,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+PHILUNET GmbH AS205112,AS205112,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Fiber Operator AS207375,AS207375,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+svea.net AS41634,AS41634,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+"VIA PERSONAL TECNOLOGIA, INFORMAÇÃO E COMUNICAÇÃO AS52690",AS52690,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Pacific Northwest Gigapop AS101,AS101,0,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Welsh Government AS202519,AS202519,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SSP Europe AS42360,AS42360,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Comcast - Utah AS33660,AS33660,0,0,1,0,0,m,0,-,-,-,0,0,-,0,1
+TOHU IX RS AS142277,AS142277,0,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+CONECT TELECOM COMUNICAÇÃO LTDA AS268737,AS268737,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Rifqi Arief Pamungkas AS199514 AS199514,AS199514,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Wu Zhiyuan AS209650,AS209650,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Thales UK Ltd AS48688,AS48688,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Portlane AS42708,AS42708,1,0,1,0,1,-,0,-,10gbps,-,0,0,-,1,0
+NekomimiRouter AS138037,AS138037,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Nejc Drobnic AS199337,AS199337,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Alien Dns Pvt Ltd AS137681,AS137681,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+QuxLabs AS203038,AS203038,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Chadinar Geraldi Purnama AS215379,AS215379,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+TahoeIX Services AS395651,AS395651,1,0,0,0,0,6c,0,-,-,-,0,0,-,0,0
+Inic Communications AS146846,AS146846,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Hometown Technologies AS30274,AS30274,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+JB3 AS211224,AS211224,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+VibeNet Telecom AS268935,AS268935,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+IQ-TECHNOFAST AS205049,AS205049,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Justifi Network AS210508,AS210508,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Gigastream plc AS31712,AS31712,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Inter Medialink Solusi AS138854,AS138854,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Felix Annen AS200490,AS200490,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+EasyDataHost AS205081,AS205081,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Pacifico Cable S.A. AS27901,AS27901,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Riksnet AB (Ratt-Internet Kapacitet i Sverige AB) AS34610,AS34610,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+FILE42 AS56997,AS56997,1,1,0,0,1,-,0,-,-,-,0,0,-,0,0
+ICU Solutions B.V. AS207117,AS207117,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Ludigssoft RZ AS49910,AS49910,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+MEGALINK TELECOMUNICACOES AS52944,AS52944,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Exa Networks Limited AS30740,AS30740,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+JPR Digital Pvt. Ltd. AS132220,AS132220,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+RAFAEL ALVES DA SILVA ME AS269611,AS269611,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Inferno Communications AS207841,AS207841,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+xTom Japan AS4785,AS4785,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+LIKENET AS271337,AS271337,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+HUXNET AS52192,AS52192,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+AetherNet AS215207,AS215207,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Medialink Global Mandiri AS64297,AS64297,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Cludo Sp. z o.o. AS198591,AS198591,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+West Virginia Internet Exchange AS15183,AS15183,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+AP Foundation AS54316,AS54316,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Linked Web AS270928,AS270928,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+S5B AS199471,AS199471,0,0,0,0,1,1c,0,-,-,-,0,0,-,0,0
+InterIX AS56584,AS56584,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Apple Inc. AS714,AS714,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Cipta Data Global AS141935,AS141935,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+baragoon networks AS215887,AS215887,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+Pacific Delta Network AS400307,AS400307,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+NANDO NET AS268858,AS268858,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+PLUGAR TELECOMUNICACOES AS269182,AS269182,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Arpan Sen AS142598,AS142598,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Priston Net Telecom AS264135,AS264135,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Hive Data Center AS33185,AS33185,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+David Moes AS212568,AS212568,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+P Foundation AS399728,AS399728,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Link11 AS34309,AS34309,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Kazehana Networks AS30690,AS30690,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+VNP AS56328,AS56328,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Baoshuo Network AS141776,AS141776,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Kareby Hosting AB AS204538,AS204538,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Nato Internet Service (Experimental) AS396303,AS396303,1,0,0,1,0,-,0,-,-,-,0,0,6,0,0
+Niigata Communication Service AS9601,AS9601,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+CodeReactor Limited AS208563,AS208563,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+Alibaba AS45102,AS45102,1,0,1,0,0,m,0,-,-,-,0,0,-,0,0
+MITRA VISIONER PRATAMA AS64315,AS64315,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Equinix Metal AS54825,AS54825,1,1,1,1,1,-,0,-,-,-,0,0,-,0,0
+Silver Star Communications AS26223,AS26223,0,0,0,0,1,-,0,-,-,-,0,0,-,1,0
+Tencent Global AS132203,AS132203,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+SIGNAL TELECOM AS36388,AS36388,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+LeaseWeb Netherlands AS205025,AS205025,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+"CZ.NIC, z.s.p.o. AS25192",AS25192,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+SdV AS8839,AS8839,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+AT&T US - 7018 AS7018,AS7018,0,0,1,0,0,6c,2:1,-,-,-,0,0,-,1,0
+SweHosting AS208453,AS208453,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+"Fastly, Inc. AS54113",AS54113,1,0,1,0,1,-,0,-,-,-,0,0,-,1,0
+IMLONGHAO AS133846,AS133846,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+ServerAstra AS56322,AS56322,1,0,1,0,0,-,0,-,1gbps,-,0,0,-,0,0
+POWER TECH TELECOMUNICACOES AS267635,AS267635,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+New HB Servicos de Telecomunicacoes AS269299,AS269299,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+emerion WebHosting AS51453,AS51453,1,0,1,1,1,-,0,-,25gbps,-,0,0,-,0,0
+Hivane AS34019,AS34019,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+DENIC Anycast AS31529,AS31529,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Juragan Wifi Indonesia AS141073,AS141073,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Verein zur Foerderung freier Netze Region Mittlerer Oberrhein e.V. AS202329,AS202329,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ExtraIP B.V. AS45040,AS45040,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Telnyx LLC AS63440,AS63440,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Korton Internet BV AS58138,AS58138,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+"Misaka Network, Inc. AS57695",AS57695,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Free IX Services AS51530,AS51530,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+Gigahost ApS AS203570,AS203570,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Netflix AS2906,AS2906,1,0,1,0,1,6c,0,-,-,-,0,0,-,0,0
+Delix Net Solution AS137098,AS137098,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Joey-Network AS49697,AS49697,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+START AS52999,AS52999,1,1,0,1,0,-,0,-,-,-,0,0,-,0,0
+SOROK76 AS200508,AS200508,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Dynamic Quantum Networks AS200351,AS200351,1,0,1,1,1,6c,0,-,-,-,0,0,-,0,0
+IPTelecom AS39931,AS39931,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Lexxa Data Indonusa AS139428,AS139428,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+SnapServ AS48550,AS48550,0,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+RUDAKI.net AS210925,AS210925,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+O'Play Digital Services AS328580,AS328580,0,0,1,0,1,-,0,-,1gbps,-,0,0,-,0,0
+NET WIL AS272488,AS272488,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+360NET AS267809,AS267809,1,0,1,0,0,m,0,-,-,-,0,0,-,0,0
+Yao Jiahao AS147016,AS147016,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Mioindirizzo AS201102,AS201102,1,0,0,0,1,-,0,-,-,-,0,0,-,1,0
+Kyoto University Microcomputer Club (KMC) AS59128,AS59128,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Netrouting AS6206,AS6206,1,0,0,0,1,m,0,-,-,-,0,0,-,1,0
+Francesco Ascione AS211411,AS211411,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Blue Lotus Support Services AS132556,AS132556,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Bamboozle Web Services AS200851,AS200851,1,0,0,0,1,m,0,-,-,-,0,0,-,1,0
+OVHcloud AS16276,AS16276,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+ASAP GLOBAL TELECOM LTDA AS264144,AS264144,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Karolio IT paslaugos EU2 AS212669,AS212669,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+ESTOXY-OU AS3920,AS3920,1,0,1,0,1,-,0,-,10gbps,-,0,0,-,0,0
+Guillaume MALEYRAT AS203636,AS203636,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+GATEWAY ENTERPRISE CORPORATION AS271335,AS271335,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Sentrian Pty Ltd AS133189,AS133189,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Telefonica del Sur AS14117,AS14117,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+FUTURE NETSANCHAR LIMITED AS133283,AS133283,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Hutchison 3G UK AS60339,AS60339,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Pasifik Satelit Nusantara AS38154,AS38154,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Pluxcon Ltd (AS209165) AS209165,AS209165,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+COMFORT NET SERVICOS DE TELECOMUNICACOES AS273459,AS273459,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ILHAM MAULANA AS203686,AS203686,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+GTec Net AS264428,AS264428,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Orange Business Services Oceania AS4805,AS4805,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Starry AS395354,AS395354,0,0,0,0,0,-,0,100mbps,-,-,0,0,-,0,0
+Edgio - AS45396 - Korea AS45396,AS45396,0,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+MythicalKitten - AS48581 AS48581,AS48581,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Scaleway AS12876,AS12876,1,0,0,0,0,-,0,-,1gbps,-,0,0,-,0,0
+Jiasheng Zhuang AS208995,AS208995,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+AVM-INFO AS201246,AS201246,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+NATIONWIDE BUILDING SOCIETY AS8698 AS8698,AS8698,0,0,1,0,1,-,0,-,-,-,0,0,-,1,0
+DJASANET AS137351,AS137351,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Uber Technologies Inc. AS63086,AS63086,1,0,1,0,0,-,0,-,-,-,0,0,-,1,0
+Sandro Bolliger AS12307,AS12307,0,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+ELASTX AS48579,AS48579,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+251 Research Redive AS140926,AS140926,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Shift Hosting AS394177,AS394177,1,0,1,1,0,m,0,-,-,-,0,0,-,0,0
+Leaseweb CDN B.V. AS60626,AS60626,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+CityNet Telecom AS33785,AS33785,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+FUSION INTERNET WIFI AS270598,AS270598,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ISC AS1280,AS1280,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+AS213151 LLC AS213151,AS213151,1,1,1,1,1,m,0,-,-,-,0,0,-,0,0
+Mythic Beasts Ltd AS44684,AS44684,0,0,0,0,0,7c,0,-,-,-,0,0,-,0,0
+RAKsmart AS54600,AS54600,1,0,1,0,1,-,0,-,-,-,0,0,-,1,0
+SWITCH AS559,AS559,0,0,0,0,1,-,0,-,-,-,1,0,-,0,0
+T Network AS138043,AS138043,1,0,1,0,0,2c,0,-,-,-,0,0,-,0,0
+Namoh Networks AS138263,AS138263,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ImproWare AS6772,AS6772,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Hafnium AS211153,AS211153,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Woofy AS396388,AS396388,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Industrie und Handelskammer Reutlingen AS49499,AS49499,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Coconut Networks Limited AS213316,AS213316,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+FR-NIC-DNS-UNICAST (AFNIC > NIC-FR > Unicast DNS) AS2486,AS2486,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+EMIND AS49535,AS49535,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+SysEleven CDN AS49130,AS49130,1,0,1,1,1,-,0,-,25gbps,-,0,0,-,0,0
+Wave Division Holdings AS11404,AS11404,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Christian MARTINS AS210864,AS210864,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Pudu AS210761 AS210761,AS210761,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Fiber Networks Indonesia AS58369,AS58369,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+T-Systems Austria GesmbH AS8387,AS8387,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+muscope AS42692,AS42692,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Remala Abadi AS38511,AS38511,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+OCTA TELECOM AS269712,AS269712,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Arka Data Primatama AS136823,AS136823,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Alpha 2000 Soluciones Infomaticas AS28037,AS28037,1,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Yesi Media Utama AS64024,AS64024,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Gtn Telecom AS269118,AS269118,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+MrSheepNET AS60326 AS60326,AS60326,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Packetframe AS968,AS968,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SISTEMAS Y SOLUCIONES DE CAMPECHE AS265583,AS265583,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+MEGA NETWORK TELECOM AS266553,AS266553,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+IRLToolkit AS40080,AS40080,1,0,0,0,0,-,0,-,100mbps,-,0,0,-,0,0
+AS-XINGKAI AS203843,AS203843,1,0,0,0,1,3c,0,-,-,-,0,0,-,0,0
+Abtec Network Systems AS199286,AS199286,1,1,1,1,1,m,0,-,-,-,0,0,-,1,0
+Kerfuffle AS35008,AS35008,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+PIT Honduras AS64150,AS64150,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+MEGA TELECON PROVEDOR DE INTERNET AS265169,AS265169,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+HEX-NET AS209574,AS209574,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+BusinessConnect bvba AS59889,AS59889,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Web4Africa AS327813,AS327813,0,0,0,0,1,4c,0,-,-,-,0,0,-,0,0
+D-LAKE AS49028 AS49028,AS49028,1,0,1,0,1,-,0,-,10gbps,-,0,0,-,0,0
+nexserv GmbH AS200482,AS200482,1,0,0,1,1,-,0,-,1gbps,-,0,0,-,0,0
+ECN AS36968,AS36968,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Exodo AS44876,AS44876,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Bling Network AS51087,AS51087,1,0,0,0,1,-,0,-,-,-,0,0,-,1,0
+Elo Multimidia LTDA AS262456,AS262456,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+PVDataNet AB AS42201,AS42201,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Frontier Communications of America (FCA) AS5650,AS5650,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Orange Business Services Nordics AS2874,AS2874,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Vocus Retail Australia AS9443,AS9443,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+JT AS8681,AS8681,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Tiernan OToole AS204994,AS204994,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+WAY 2 INTERNET AS134850,AS134850,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Internet Technology Laboratory AS38254,AS38254,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+PT Rubyan Network Solution AS141975,AS141975,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+IDNIC-JARINGANPUTRANUSANTARA-AS-ID AS151004,AS151004,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+ZANCHET E PAIM TELECOM AS266489,AS266489,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Genie Media AS213171,AS213171,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+euNetworks Group AS13237,AS13237,0,0,1,0,1,6c,0,-,-,closest-exit,0,0,-,1,0
+OVH Telecom AS35540,AS35540,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+TheMaple Inc AS216340,AS216340,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Material Global Limited AS203867,AS203867,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Novecore AS205630,AS205630,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Hetzner Online Cloud 3 AS212317,AS212317,0,0,0,0,0,-,0,-,2gbps,-,0,0,-,0,0
+"CIFNet, Inc. AS14585",AS14585,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+CONECTA BRASIL INTERNET AS263486,AS263486,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+RedoubtNET AS400304,AS400304,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Stelia AS212175,AS212175,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Unlimited Is Limited AS57870 AS57870,AS57870,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Flipkart Internet Private Limited AS9752,AS9752,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+"Pudu, LLC AS47689",AS47689,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Sunflyer Global Experiment Network AS200959,AS200959,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+xTom Hong Kong AS9312,AS9312,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+TechLabItalia AS211785,AS211785,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Rapid-Fire-y Tokyo AS9409,AS9409,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+andrewnet experimental AS211562,AS211562,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+The St. Paul Group - ISP AS40217,AS40217,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+MythicalKitten - AS203635 AS203635,AS203635,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Blacknight Internet Solutions AS39122,AS39122,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+xTom Los Angeles Legacy AS36828,AS36828,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Alexander Samoylyk AS200605,AS200605,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Startrek Telecom Ltd. AS139901,AS139901,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Verizon - EMEA AS702,AS702,0,0,0,0,0,-,0,1500mbps,-,shortest-exit,0,0,-,1,0
+MythicalKitten AS50224,AS50224,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+HostPalace Web Solution Private Limited AS134512,AS134512,0,0,1,0,0,-,1:2,-,-,-,0,0,-,0,0
+Tianhai Global Network AS4842,AS4842,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Bogons AS3213,AS3213,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+SIMTEL AS141889,AS141889,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+JMP Technology Services GmbH AS61423,AS61423,1,0,1,1,0,-,0,-,-,-,0,0,-,0,0
+GTT Communications (AS4565) AS4565,AS4565,0,0,1,0,0,6c,0,-,-,-,0,0,1500,1,0
+XXSL Network AS210025,AS210025,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+RETN AS9002,AS9002,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+NetCintra Telecomunicações AS262546,AS262546,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+"PBW Communications, LLC AS16409",AS16409,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Giganews AS30094,AS30094,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+nonexiste.net AS26457,AS26457,0,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+gobler.net AS48374,AS48374,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Bay Area Mesh AS32681,AS32681,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+SFR Group AS15557,AS15557,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Pocketinet Communications AS23265,AS23265,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+PogoZone AS23175,AS23175,0,0,0,0,1,6c,0,-,-,-,0,0,23175,0,0
+MAX3 TELECOM AS269563,AS269563,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Nicolas Patouillard AS210851,AS210851,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Kotanet AS152020,AS152020,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+PT.COMTELINDO AS136054,AS136054,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Hong Kong TOHU Technology Limited AS212013,AS212013,0,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+INIXP Interconnect AS151954,AS151954,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+KSM-Net AS210888,AS210888,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+E2W Solutions AS394414 AS394414,AS394414,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Lit Fibre Group AS211597,AS211597,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+VIACOM NEXT GENERATION COMUNICACAO LTDA AS263528,AS263528,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Tilman Schaefers AS208814,AS208814,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Orange Business Services North America AS2647,AS2647,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+IPCOM SISTEMAS AS271927,AS271927,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Alpine North Networks AS60557,AS60557,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+EVERY DAY TECHNOLOGY CO AS134526,AS134526,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Proteus AS200708,AS200708,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+blueskysystems AS202114,AS202114,1,0,0,0,0,1c,0,-,-,-,0,0,-,1,0
+GREENFIBER AS213281,AS213281,1,1,0,0,1,-,0,-,-,-,0,0,-,0,0
+Raoul Brouns AS215296,AS215296,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ZEROFAIL USA AS53364,AS53364,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+E C de CANO AS268791,AS268791,1,0,1,0,1,-,0,-,-,-,0,0,51,0,0
+Unixfy AS139921,AS139921,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+N4 Telecomunicacoes LTDA ME AS262505,AS262505,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Real World Technology Solutions AS45437,AS45437,1,0,0,0,0,-,24,-,-,-,0,0,-,0,0
+MJJ-Network AS216056,AS216056,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Putu PW AS213086,AS213086,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+INDINET SERVICE AS132115,AS132115,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Nettwork (transit) AS200242,AS200242,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Visa International AS2559,AS2559,1,0,1,0,1,m,0,-,-,-,0,0,-,1,0
+DigitalMonks LLC AS400006,AS400006,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+ETS TELECOM AS18914,AS18914,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+GTD Chile AS14259,AS14259,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+ISC F-ROOT AS3557,AS3557,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+ResoLv SARL AS198423,AS198423,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+StackPath (Highwinds) AS33438,AS33438,1,0,1,0,0,1c,0,1gbps,-,-,0,0,-,1,0
+NYNEX satellite OHG AS62023,AS62023,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Gregory Shapiro AS199518,AS199518,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+L. O. LEANDRO INTERNET AS269163,AS269163,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Kew Solutions Unipessoal AS209968,AS209968,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+SAM Office AS59985,AS59985,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+EzriCloud AS206628,AS206628,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Anexia AS40979 AS40979,AS40979,1,0,1,1,1,-,0,-,25gbps,-,0,0,-,0,0
+Vianet Telecomunicações AS271201,AS271201,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+APLITT Sp. z o.o. AS49420,AS49420,1,0,1,0,1,1c,0,-,-,-,0,0,-,0,0
+Inic Communications Pvt. Ltd. AS135183,AS135183,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+PT Menara Digital Salama AS150980,AS150980,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+IX Australia AS7606,AS7606,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+ITANET CONECTA AS52699,AS52699,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Fabrizzio Jose Petrucci AS203528,AS203528,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+PLBNET AS139972,AS139972,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+DaKnObNET AS210312,AS210312,1,1,1,1,1,-,0,-,-,-,0,0,-,0,0
+Kapteyan A.S. AS60707,AS60707,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+JUPITER ONLINE SERVICES AS138917,AS138917,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Interfibra AS200553,AS200553,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+2degrees Next Gen AS9790,AS9790,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+pcela AS199763,AS199763,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Home NOC Operators Group AS59105,AS59105,1,1,1,1,1,m,0,-,-,-,0,0,-,0,0
+NAITWAYS SAS AS57119,AS57119,1,0,0,0,0,1c,0,-,-,-,0,0,-,1,0
+AllWorldIT ZA AS328112,AS328112,1,0,0,0,1,3c,0,-,-,-,1,1,-,1,0
+FIBRANETBR AS269462,AS269462,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Multidata Rancana Prima AS58552,AS58552,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Axera AS34758 AS34758,AS34758,1,1,0,1,1,-,0,-,-,-,0,0,-,1,0
+Onvox AS1050,AS1050,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Strategic Explorations AS207268,AS207268,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Pluxcon Ltd (AS57156) AS57156,AS57156,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Paket Data Andal AS24537,AS24537,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Karabro AS51519,AS51519,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+MikroTikSA Networks AS328633,AS328633,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Moe AS213262,AS213262,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+DMESON CARLOS BARBOZA GONÇALVES DO NASCIMENTO AS271409,AS271409,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Trimitra Usaha Sejahtera AS138823,AS138823,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Haraguroicha Internet Service AS57429,AS57429,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Roller Network AS11170,AS11170,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Claranet AS8426,AS8426,1,0,0,1,1,6c,0,-,-,-,0,0,-,0,0
+Alexander Bruegmann AS212085,AS212085,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+NAU AS197434,AS197434,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Bahnhof AS8473,AS8473,1,0,1,1,1,-,0,-,-,-,0,0,-,1,0
+Rasi Bintang Perkasa AS138109,AS138109,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+IPGLOBE AS53225,AS53225,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Forss IT & Bredband AS43809,AS43809,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Ganawa Juanah AS207414,AS207414,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Server24 AS34081,AS34081,1,0,1,0,0,m,0,-,1gbps,-,0,0,-,0,0
+Digital Residence B.V. AS47207,AS47207,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+MakeNewMedia Communications AS44765,AS44765,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Elisa Corporation AS6667,AS6667,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Sargasso Networks Ltd. AS39767,AS39767,0,0,1,0,0,m,0,-,-,-,0,0,-,0,0
+VSTNETFIBER TELECOM AS266606,AS266606,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Hotchilli Internet (Redcentric) AS8419,AS8419,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+TREX Regional Exchanges AS29432,AS29432,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+SM Da Silva Serviços de Comunicação AS267170,AS267170,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Woodside Energy AS38327,AS38327,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Hosted Backbone AS14713,AS14713,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+GoCodeIT AS835 AS835,AS835,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Wi-Manx Limited AS42455,AS42455,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Brooke Telecom Cooperative AS399494,AS399494,0,0,1,0,1,-,0,-,10gbps,-,0,0,-,0,0
+AARON HONG AS137411,AS137411,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+xTom Pty Ltd AS8888,AS8888,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Optilian AS29246,AS29246,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+MENHERA AS63806,AS63806,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+EdgeUno MEA AS51095,AS51095,0,0,0,0,0,-,0,-,-,-,0,0,32,0,0
+RUDAKI AS211509,AS211509,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+icolo.io AS328162,AS328162,1,1,0,1,1,-,0,-,-,-,0,0,-,0,0
+Serverion AS213035,AS213035,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+NaveNet Telecom AS266312,AS266312,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+GlobalXtreme AS45701,AS45701,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Afghan Wireless Communications Company AS38742,AS38742,1,0,1,0,0,-,0,-,1gbps,-,0,0,-,0,0
+Stichting Carmel College AS206130,AS206130,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+iFog CDN & DNS AS202479,AS202479,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+C3Aero LLC AS399011,AS399011,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Blizzard Entertainment AS57976,AS57976,0,0,0,0,1,m,0,-,-,-,0,0,-,1,0
+"TOV ""Kompjuternie Merezhi"" AS35213",AS35213,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+BelWü AS553,AS553,1,0,1,0,1,4c,0,-,-,-,0,0,-,0,0
+DNS-OARC AS64238,AS64238,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+MEDIA MANAKARRA NET AS140437,AS140437,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Edgio (Edgecast) -  AS15133 AS15133,AS15133,0,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+CAMIX Services AS328091,AS328091,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+C2M SERVIOS DE INFORMTICA E TELECOMUNICAES AS266178,AS266178,1,0,1,0,1,m,0,-,-,-,0,0,-,1,0
+Phyxia Networks AS35627,AS35627,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Barnes & Morgan AS35701,AS35701,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Opera Software China AS136189,AS136189,0,0,1,0,1,-,0,-,1gbps,-,0,0,-,0,0
+TOHUNET AS140731,AS140731,0,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+BUROQNET AS140390,AS140390,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Inter.link AS5405,AS5405,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+PESAT1 AS9875,AS9875,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+RO-IX RouteServers AS43431,AS43431,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Online Technology Exchange AS32494,AS32494,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Veilios Hosting AS1002,AS1002,0,0,0,0,0,1c,0,-,-,-,0,0,-,0,0
+OmegaSolutions AS197871,AS197871,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Privex AS210083,AS210083,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+xTom Tokyo AS3258,AS3258,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Pangkalan Lintas Data AS149934,AS149934,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Nathan Sales AS205907 AS205907,AS205907,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Videobyte AS49709,AS49709,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+TAMUKAI NETWORK A AS152184,AS152184,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Lancaster-Lebanon IU13 WAN AS14773,AS14773,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+EBOX AS1403,AS1403,1,1,1,1,1,m,0,-,-,-,0,0,-,0,0
+ZAMTEL AS37154,AS37154,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Universidade Estadual de Ponta Grossa AS53046,AS53046,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Rapid-Fire-y AS151420,AS151420,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+SteveYi Network AS7480,AS7480,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+ASYMPTOTE NETWORK AS53616,AS53616,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Nepustil AS12502 AS12502,AS12502,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Bastetrix AS393949,AS393949,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+ARTERIA Networks Corporation (Vectant) AS2519,AS2519,0,0,0,0,0,-,0,-,50mbps,-,0,0,-,0,0
+Configo Systems AS34154,AS34154,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+PT PATRIA LINTAS JAYA AS139365,AS139365,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Quanta Tunas Abadi AS137363,AS137363,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+MARKLEY-NETWORK-SERVICES AS398427,AS398427,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+ONEMANISP NEXT GENERATION AS206499,AS206499,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+VSX Networks AS262355,AS262355,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+NovoServe B.V. AS24875,AS24875,1,0,0,0,0,1c,0,-,-,-,0,0,-,0,0
+NEXGENET COMPANY LIMITED AS151210,AS151210,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Lars Ewald AS200372,AS200372,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Haraguroicha Legacy Internet Service AS212359,AS212359,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Init7 AS13030,AS13030,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+GTT Communications (AS3257) AS3257,AS3257,0,0,1,0,0,6c,0,-,-,-,0,0,1500,1,0
+SUNWAY DIGITAL WAVE AS55482,AS55482,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Sofia Connect AS47872,AS47872,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+SATURNO COMUNICAÇÕES AS262784,AS262784,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Web sQuad Connect AS328137,AS328137,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Net&Com Serviços de Informática e Telecomunicações Ltda AS263324,AS263324,1,1,1,1,1,-,0,-,-,-,0,0,-,0,0
+BKNIX AS63528,AS63528,0,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+2adventure Studios AS198480,AS198480,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+ISC F-ROOT ORD1 AS33071,AS33071,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Everlife Networks AS131171,AS131171,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+Alpine North Anycast Network AS48079,AS48079,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+FIBERLINK PROVEDORES DE VOZ SOBRE PROTOCOLO INTERN AS264006,AS264006,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Google LLC AS15169,AS15169,1,0,1,1,1,m,0,-,-,-,0,0,-,0,0
+PT. Sarana Optima Berdikari AS151533,AS151533,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Rheintal IX Service AS AS61150,AS61150,0,0,0,0,0,6c,0,-,-,-,0,0,-,0,0
+OCCAID AS30071,AS30071,0,0,1,0,1,m,0,-,-,-,0,0,-,1,0
+ConnetU Ltd AS51945,AS51945,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Mactel AS142381,AS142381,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+AW Fbra AS61775,AS61775,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ISC F-ROOT ATL1 AS33080,AS33080,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Sunoaki Network AS47778,AS47778,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Glauca Carrier AS202359,AS202359,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+ELETRONET AS267613,AS267613,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+FRAMNET AS269292,AS269292,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+IRIDEOS AS3302,AS3302,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Sunoaki Network - AS30581 AS30581,AS30581,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+TELE2 AS1257,AS1257,0,0,1,0,0,8c,0,-,-,-,0,0,-,0,0
+TANET AS131988,AS131988,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Afghan Wireless Backbone ASN AS138322,AS138322,1,0,1,0,0,-,0,-,1gbps,-,0,0,-,0,0
+Smart Solucoes em Telecomunicacoes AS264293,AS264293,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Meis Space AS211960,AS211960,0,0,1,1,1,m,0,-,-,-,0,0,-,0,0
+Zhijie Jin AS149795,AS149795,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+INTERSPACE AS200899,AS200899,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Chimon Network AS202939,AS202939,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+PHI TELECOM AS269566,AS269566,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Coconut Networks Limited (APAC) AS146992,AS146992,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Yasmin Amanah Media AS139967,AS139967,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Box Broadband AS210874,AS210874,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+LuxNetwork AS29467,AS29467,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+HEXHU AS138181,AS138181,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Albin Hakanson AS213366,AS213366,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+KODEWORD AS199767,AS199767,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Telcom Networks AS31631,AS31631,1,0,0,0,1,-,0,50mbps,-,-,0,0,-,0,0
+7 Star Dot Com Pvt. Ltd AS18196,AS18196,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Amazon.com AS16509,AS16509,0,0,0,0,1,m,0,-,-,shortest-exit,0,0,-,1,0
+Quickline AG AS15600,AS15600,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Move Up Internet Pty Ltd AS149647,AS149647,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+SpeedRS AS269612 AS269612,AS269612,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Ukrainian Data Network AS207656,AS207656,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Si.El.Co. AS201806,AS201806,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+"Misaka Network, Inc. (Enterprise Network) AS36260",AS36260,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+NetJoin AS64445,AS64445,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Abbas G. AS200179,AS200179,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+CSO AS208171,AS208171,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ICODIA AS44297,AS44297,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+HopOne Internet Corp. AS14361,AS14361,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Ikhlas Cipta Teknologi AS140457,AS140457,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Internet Prima Nusantara AS142327,AS142327,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Pongery AS AS200160,AS200160,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Colt AS8220,AS8220,0,0,1,0,1,-,0,-,-,-,0,0,-,1,0
+Rudolf Maduro AS204406,AS204406,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Kabel-TV Lampert AS59890,AS59890,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Tritan Internet LLC (AS19330) AS19330,AS19330,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+"CZ.NIC, z.s.p.o. (AS200070) AS200070",AS200070,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+LeaseWeb Network AS16265,AS16265,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Mikhail Fedorov AS215751,AS215751,1,0,0,1,0,m,0,-,-,-,0,0,-,0,0
+Nathan Sales AS34553,AS34553,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+CentralIX AS2851,AS2851,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+"Pacific Servers, Inc. AS63297",AS63297,1,0,1,0,0,-,0,-,100mbps,-,0,0,-,1,0
+weber.cloud AS35710,AS35710,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ISC F-ROOT JOG1 AS142576,AS142576,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+MoRENet Mozambique AS327700,AS327700,0,0,1,0,1,-,0,-,-,-,0,0,-,1,0
+Orbyta AS262237,AS262237,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Staclar Carrier AS34854,AS34854,1,0,0,0,1,-,0,-,500mbps,-,0,0,-,0,0
+Cerfox Telecom AS271764,AS271764,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+vServer.site AS56382,AS56382,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+COMNET Global IP Backbone AS61135,AS61135,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Reliably Coded AS213279,AS213279,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Peg Tech Los Angeles AS398823,AS398823,1,0,1,0,1,-,0,-,-,-,0,0,-,1,0
+L R PROVEDOR DE INTERNET AS271383,AS271383,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Quad State Internet AS399788,AS399788,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SpeedRS AS53218 AS53218,AS53218,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Weserve B.V. AS208864,AS208864,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Equatorial Telecomunicações LTDA AS267501,AS267501,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Nikhef AS1104,AS1104,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ALLPOINTS FIBRE NETWORKS LIMITED AS198440,AS198440,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Edgio - AS23059 - LATAM AS23059,AS23059,0,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+Bahr IT AS48126,AS48126,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+l.root-servers.net AS20144,AS20144,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Zenlayer AS4229 AS4229,AS4229,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Slashme BV AS25595,AS25595,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+GEMILANG SARANA MANDIRI AS137349,AS137349,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+InterNetworX Management GmbH AS48596,AS48596,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ParadoxNetworks Limited AS52025,AS52025,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+PremierDC Veri Merkezi A.S. - Istanbul AS42910,AS42910,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+V4LESS-AS AS215250,AS215250,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Beon Intermedia AS55688,AS55688,0,0,1,0,0,-,0,-,1gbps,-,0,0,-,0,0
+1&1 Versatel Deutschland AS8881,AS8881,1,0,1,0,0,m,0,-,-,-,0,0,-,1,0
+Gtd Perú AS22411,AS22411,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Suretec Systems Ltd. AS199659,AS199659,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Hackerspace Brussels AS49752,AS49752,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Donini & Saldanha Telecomunicacoes AS265972,AS265972,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+xTom Estonia Legacy AS35537,AS35537,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+The Constant Company AS20473,AS20473,1,1,1,1,1,-,0,-,-,-,0,0,-,0,0
+Erik Larsson AS204179,AS204179,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+NYCMesh AS395853,AS395853,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Alibaba Cloud CDN AS24429,AS24429,1,0,1,0,0,m,0,-,-,-,0,0,-,0,0
+LUJE.net AS212855,AS212855,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Zero Distance AS57406,AS57406,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ServeCentric (Blanchardstown) AS15612,AS15612,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+PT Global Internet Solusindo AS149697,AS149697,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Fatih Unlu AS206271,AS206271,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+VIRTEX TELECOM AS262494,AS262494,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+MilkyWan AS2027,AS2027,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Lumen AS3356 AS3356,AS3356,1,0,1,1,0,1c,0,-,-,-,0,0,1000,0,0
+COLOBIX AS203410,AS203410,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+CatIO Network AS137256,AS137256,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Menaksopal Link Nusantara AS139981,AS139981,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Hurricane Electric AS6939,AS6939,1,0,1,0,1,m,0,-,-,-,0,0,-,1,0
+Seven Networking UK AS201335,AS201335,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Junxiao Shi AS200690,AS200690,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Sky Walters AS57848,AS57848,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+NIRVANET AS212948,AS212948,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+NHM AS62275,AS62275,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Telesmart AS133075,AS133075,1,0,1,0,0,m,0,-,-,-,0,0,-,0,0
+Cynthia Revström AS57782,AS57782,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Malte Bittner AS197814,AS197814,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+JARINDO NETWORK AS136879,AS136879,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+"OKPATH, INC. AS51844",AS51844,1,1,0,0,1,-,0,-,250mbps,-,0,0,-,0,0
+xTom United States AS6233,AS6233,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Virgin Media AS5089,AS5089,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Viriya Surya Abadi AS141600,AS141600,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Federico Martinez Fernandez AS209245,AS209245,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+MARLONALKAN-AS AS215665,AS215665,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+TMGCORE AS398309,AS398309,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+MLaB NL AS41047,AS41047,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+"Easy Online Solutions, Ltd. AS27589",AS27589,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Alpine North AS206064,AS206064,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+FansNET AS209294,AS209294,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+H3000 Tecnologia AS53119,AS53119,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Centauri Communications AS19214,AS19214,0,0,1,0,1,1c,0,-,-,-,0,0,-,0,0
+"Pilot Fiber, Inc. AS46450",AS46450,1,0,1,0,1,-,0,-,-,-,0,0,-,1,0
+Francesco Masala AS212539,AS212539,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Josha Prior AS199689,AS199689,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+GTT Communications (AS4436) AS4436,AS4436,0,0,1,0,0,6c,0,-,-,-,0,0,1500,1,0
+Criteo Asia AS55569,AS55569,1,0,1,0,1,-,0,-,-,closest-exit,0,0,-,0,0
+JDD NET PROVEDOR DE INTERNET E SERVICOS LTDA AS271554,AS271554,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Navigo s.r.l. AS200794,AS200794,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+LeaseWeb USA AS15003,AS15003,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Buyas Media Technology AS147100,AS147100,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+FogNet - iFog GmbH AS34927,AS34927,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+TACT COMMUNICATION PVT LTD AS151719,AS151719,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+marques e santos internet AS269075,AS269075,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+bgp.rodeo AS202585,AS202585,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Nibble Network AS202896,AS202896,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Q Enterprise Systems Ltd. AS151350,AS151350,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+DALnet IRC Network AS31800,AS31800,0,0,0,0,0,m,0,-,-,-,0,0,-,1,0
+Hetzner Online AS24940,AS24940,0,0,0,0,0,8c,0,-,2gbps,-,0,0,-,0,0
+Netdirekt A.S. AS43391,AS43391,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Imperium AS55016,AS55016,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SUPERSPACE AS142354,AS142354,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Gayatri Lintas Nusantara AS141607,AS141607,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+GLOBNET BROADBAND SERVICE AS150014,AS150014,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Hetzner Online Cloud 2 AS213230,AS213230,0,0,0,0,0,-,0,-,2gbps,-,0,0,-,0,0
+NETOPS AS201789,AS201789,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+weber.investments AS61381,AS61381,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+doof.net AS395823,AS395823,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+IPTP Networks AS41095,AS41095,0,0,1,0,0,4c,0,-,-,-,0,0,-,1,0
+X2com Belgie B.V. AS216066,AS216066,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Mossnet AS328461,AS328461,0,0,1,0,1,m,0,-,-,shortest-exit,0,0,-,1,0
+Seaborn AS13786,AS13786,1,0,1,0,0,m,0,-,20gbps,-,0,0,-,1,0
+Sigfried Net AS212767,AS212767,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Gameserverkings AS26863,AS26863,1,0,1,1,0,-,0,-,-,-,0,0,-,0,0
+Project NIX AS200149,AS200149,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+DevStorage AS210633,AS210633,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+HATS NETWORK AS203314,AS203314,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Solytro LTD AS400687,AS400687,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Next Gen Online AS137964,AS137964,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+23M GmbH AS47447,AS47447,1,0,1,0,0,-,0,-,100mbps,-,0,0,-,0,0
+Verizon AS701,AS701,0,0,0,0,0,-,0,1500mbps,-,shortest-exit,0,0,-,1,0
+Hayden Three AS48002,AS48002,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+WIND NET AS269783,AS269783,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Stromnet Communication AS139495,AS139495,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Sub 6 AS200083,AS200083,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Baoyun Network AS142566,AS142566,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+UPSTREAM INTERNET AS59538,AS59538,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+FreeStone Systems AS196621,AS196621,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+Rapid-Fire-y Testnet AS212817,AS212817,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+xyTel Inc AS395394,AS395394,0,0,0,0,0,-,0,-,-,-,1,0,-,0,0
+Cable.com Telecomunicações AS264153,AS264153,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ASK4 Ltd AS41230,AS41230,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Terrahost AS AS56655,AS56655,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+NTEREN AS142280,AS142280,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Servperso Systems 2 AS205523,AS205523,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Edgio - AS22822 AS22822,AS22822,0,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+"UNLIMITED IS LIMITED, LLC AS59993",AS59993,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+DataKL Solutions AS138359,AS138359,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+HOTARU NETWORK AS200455,AS200455,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+PotatoNet AS17830,AS17830,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+RECONET SEMESTA INDONESIA AS150936,AS150936,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+1 Click Services Limited AS200552,AS200552,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Andreas Duering Network AS216427,AS216427,0,0,0,0,1,1c,0,-,-,-,0,0,-,0,0
+Mft Internet AS135253,AS135253,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Kamel Networks AS213113,AS213113,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Opera Software Americas AS21837,AS21837,0,0,1,0,1,-,0,-,1gbps,-,0,0,-,0,0
+Doo Technology AS137930,AS137930,1,0,1,0,0,-,0,-,-,-,0,0,-,1,0
+WITmind AS42100,AS42100,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Society of Young Enterprise Engineers AS25944,AS25944,1,0,1,1,0,-,0,-,-,-,0,0,-,0,0
+REAL TELECOM EIRELI ME - ME AS265958,AS265958,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Nasional Online AS63868,AS63868,1,0,1,0,0,6c,0,-,-,-,0,0,-,0,0
+Media Online AS135420,AS135420,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Acebrowse AS136319,AS136319,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Novanet Amaraji AS273449,AS273449,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+CNETWORK AS48453,AS48453,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+PT Mafianet Akses Media AS147132,AS147132,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+The Fire Horn AS397795,AS397795,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Entropia e.V. AS208854,AS208854,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+DigitalOcean AS14061,AS14061,1,1,1,0,1,-,0,500mbps,5gbps,-,0,0,-,0,0
+Hetzner Online Cloud 4 AS215859,AS215859,0,0,0,0,0,-,0,-,2gbps,-,0,0,-,0,0
+NorrNod AS12501,AS12501,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+ScherrerNet Informática AS262685,AS262685,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+iWay AG AS8758,AS8758,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Alex Delporte AS213045,AS213045,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Atlantic Metro AS29838,AS29838,1,0,0,0,1,m,0,-,-,-,1,0,-,1,0
+"Misaka Network, Inc. (EMEA) AS35487",AS35487,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+Packetsurge AS22147,AS22147,1,0,1,0,0,-,0,-,-,-,1,0,-,1,0
+Virtual Technologies & Solutions AS37721,AS37721,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+DGNETTelecom AS268126,AS268126,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Mohammad Raska AS215223,AS215223,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+"Misaka Network, Inc. (Office) AS969",AS969,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+Moulticast AS213376,AS213376,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+GIGANET SOLUCOES E TECNOLOGIA AS268779,AS268779,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Telekomunikasi Network Nusantara AS150550,AS150550,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+JYANG Net AS48987,AS48987,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Wavex Internet Service Provider LTD AS328977,AS328977,0,1,0,0,0,-,0,-,-,-,0,0,-,0,0
+VANCIS AS1126,AS1126,0,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Atharva - AS47311 AS47311,AS47311,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Disney Streaming Edge AS23344,AS23344,0,0,0,0,0,m,0,-,20gbps,-,0,0,-,0,0
+Nato Internet Service AS46997,AS46997,1,0,0,1,0,-,0,-,-,-,0,0,6,0,0
+PENGUIN AS53727,AS53727,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+NETDIGITAL TELECOMUNICACOES AS262995,AS262995,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+roberto da silva pessoa AS267282,AS267282,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+BendTel AS27008,AS27008,0,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Androw AS212519,AS212519,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+VIAON INTERNET AS267012,AS267012,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+xTom Fremont Legacy AS62805,AS62805,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Colocation Ltd AS44355,AS44355,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Mike Marchal AS211398 AS211398,AS211398,0,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Individual Network Berlin e.V. AS29670,AS29670,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Orange Business Services Southern Cone AS6505,AS6505,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Atharva - AS150249 AS150249,AS150249,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Evalse AS40916,AS40916,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+8ROUTE AS34428,AS34428,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+TKRZ Stadtwerke AS42184,AS42184,1,0,1,1,1,-,0,-,10gbps,-,0,0,-,0,0
+M Alhuda AS44817,AS44817,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Orange Business Services Central Europe AS10282,AS10282,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+GOLINE AS202032,AS202032,0,1,0,0,0,-,0,1gbps,-,-,0,0,-,0,0
+Java Kreasindo Bersama AS149365,AS149365,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Liberty Global ASPA testing AS24643,AS24643,0,0,1,0,1,6c,95,-,-,-,0,0,-,0,0
+AARNet AS7575,AS7575,0,0,0,0,1,2c,0,-,-,-,0,0,-,0,0
+BIXNET SERVICOS DE REDES DE COMUNICACAO VIRTUAL AS266169,AS266169,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Lintas Data Prima AS45305,AS45305,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ITANET PONTO COM LTDA AS266055,AS266055,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Berik Ashimov AS215953,AS215953,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+VLBGIT Friesenecker e.U. AS47251,AS47251,1,1,1,1,1,-,0,-,-,-,0,0,48362,0,0
+Equation AS41090,AS41090,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Sokom S.r.l. AS57507,AS57507,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Antares Bintang Cemerlang AS149962,AS149962,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Lintas Jaringan Nusantara AS58821,AS58821,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+PCH AS42 AS42,AS42,0,0,1,0,0,2c,0,10gbps,-,-,0,0,-,1,0
+ZET.NET AS6204,AS6204,0,0,0,0,0,2c,0,-,-,-,0,0,-,0,0
+"Limited Responsibility Society ""KomProektServis"" AS51276",AS51276,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Flooyd Telecom AS198057,AS198057,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Arkaden bredband AS51132,AS51132,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+4ALL AS50316,AS50316,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Acronis EMEA AS35793,AS35793,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+LAJANET AS141957,AS141957,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Gentlent AS52112,AS52112,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Emerald Onion AS396507,AS396507,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Prima Nala Mandiri AS150185,AS150185,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Nagaeki Transcontinental Telecom AS199683,AS199683,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Flashnet Inovasi Teknologi AS151538,AS151538,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+QWTY-NET AS198969,AS198969,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Cloudflare AS13335,AS13335,1,0,1,0,0,m,0,-,1gbps,-,0,0,-,0,0
+SELFHOSTABLE AS197532,AS197532,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+VMHaus AS136620,AS136620,0,0,0,0,0,7c,0,-,-,-,0,0,-,0,0
+"Orange Business Services Benelux, Gulf, ZA AS5583",AS5583,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Kaupthing Gateway AS216212,AS216212,1,0,1,1,0,-,0,-,-,-,0,0,-,0,0
+BusinessConnect AS15693,AS15693,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Sapinet AS39421,AS39421,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+CloudCoCo Connect AS25577,AS25577,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Dconnect Telecom AS268311,AS268311,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+TSUKUDANI NETWORK AS150325,AS150325,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Bintang Semesta Telematika AS151586,AS151586,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+MBIX Services AS395611,AS395611,0,0,0,0,0,2c,0,-,-,-,0,0,-,0,0
+Cloudsky Superfast Broadband & Services AS134340,AS134340,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Oosha Ltd AS44981,AS44981,1,0,1,0,0,-,0,-,-,-,0,0,-,1,0
+Telematica Internet Service Provider AS40980,AS40980,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Liquid Telecom SA AS36937,AS36937,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Sistemos Information Technology AS132772,AS132772,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Hermann Lienstromberg AS208059,AS208059,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+AMPATH AS20080,AS20080,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+A B V SERVICES AS267334,AS267334,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+ISIF Asia SDX Project AS9267,AS9267,1,0,1,1,0,-,0,-,-,-,0,0,-,0,0
+LWLcom AS50629,AS50629,1,0,1,1,1,-,0,-,1gbps,-,0,0,-,0,0
+Stratagem Hosting AS212806,AS212806,1,0,1,0,0,1c,0,-,-,-,0,0,-,0,0
+BizTelecom AS49410,AS49410,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Ayo Bayar Utang AS209025,AS209025,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Nichi Networks AS209297,AS209297,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+REVOLUTION PROVIDER AS41720,AS41720,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Viveiros & Araujo Serv de Prov da Int AS262274,AS262274,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Nicholis du Toit AS211869,AS211869,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Optima Italia S.p.A. AS44513,AS44513,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Nutrien AS393891,AS393891,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Bouygues Telecom ISP AS5410,AS5410,1,0,1,0,1,-,0,200mbps,40gbps,-,0,0,-,0,0
+Verizon - LATAM AS14551,AS14551,0,0,0,0,0,-,0,1500mbps,-,shortest-exit,0,0,-,1,0
+ZAP TCHE PROVEDOR DE INTERNET AS52953,AS52953,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Airgrid AS201198,AS201198,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+PT Hide Digital Security AS215409,AS215409,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Bhutan Internet Exchange Services AS7615,AS7615,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Potat0 Network AS200078,AS200078,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+AS-PHREESIA-1 AS398291,AS398291,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+PIT - Colombia - IP Services AS272806,AS272806,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+"Misaka Network, Inc. (BYOIP) AS47553",AS47553,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+Saranaindo AS138876,AS138876,0,0,0,0,0,-,0,-,1gbps,-,0,0,-,0,0
+Arthatama Adhiprima Persada AS131749,AS131749,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Infonusa Teknologi Telekomunikasi Nusantara AS152082,AS152082,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+CONECTTAFIBRA AS272542,AS272542,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Rifqi Arief Pamungkas AS203868 AS203868,AS203868,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Neptune Networks AS21700,AS21700,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+MarbleISL Network AS213092,AS213092,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+RIPE NCC RIS Project AS12654,AS12654,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Misaka.io AS917,AS917,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Classicnet Broadband Network AS134307,AS134307,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+LILLY-IX AS139978,AS139978,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+ST1 INTERNET AS269194,AS269194,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+HOSTOWEB.COM AS205897,AS205897,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Axera AS28742 AS28742,AS28742,1,1,0,1,1,-,0,-,-,-,0,0,-,1,0
+PT. Langit Mandiri Sukses AS139390,AS139390,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+NSONE AS62597,AS62597,1,0,1,0,1,1c,0,-,-,-,0,0,-,0,0
+SINDHU FIBER PVT LTD AS151128,AS151128,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Intellihome AS47116,AS47116,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+EdgeUno AS7195,AS7195,0,0,0,0,0,-,0,-,-,-,0,0,32,0,0
+S.BARROS DE SOUZA EIRELI AS268011,AS268011,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+RADISH NETWORKS AS399580,AS399580,1,0,1,1,1,1c,0,-,-,-,0,0,-,0,0
+Hyper Group Services Network AS215729,AS215729,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+LIGEIRO FIBRA TELECOM LTDA AS268577,AS268577,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Sarana Intimedia Telematika AS150191,AS150191,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Voxtelesys AS400011,AS400011,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Isogram AS400555,AS400555,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Utopia Networks AS133315,AS133315,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Logos Technologies AS41606,AS41606,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Free PRO AS30781,AS30781,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+365 Data Centers (BroadbandONE) AS19151,AS19151,1,0,0,0,1,m,0,-,-,-,1,0,-,1,0
+Fatickchari Communication Network-FCN AS142547,AS142547,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Fokus Inovasi Faradisa Abadi AS141057,AS141057,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Ariel Antigua AS207036,AS207036,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Perspektiv Bredband AB AS15782,AS15782,0,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Astha Networks AS146988,AS146988,1,0,1,0,0,2c,0,-,-,-,0,0,-,0,0
+KIXP - Nairobi Management Network AS37578,AS37578,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Rapid-Fire-y America AS11704,AS11704,0,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+Morizt ID AS149749,AS149749,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+CINC NET AS32864,AS32864,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Avensys Networks Ltd AS8553,AS8553,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Nossa Telecom AS61950,AS61950,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Meta AS63293 AS63293,AS63293,1,0,1,0,0,2c,0,-,-,-,0,0,-,0,0
+M247 AS9009,AS9009,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Xtreme Networks - AS18400 AS18400,AS18400,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+xTom V.PS AS3204,AS3204,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Nusantara Teknologi Semesta AS140442,AS140442,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Softway Informatica Ltda AS263907,AS263907,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+AMX INTERNET FIBRA ÓPTICA AS271229,AS271229,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+SRR AS49902,AS49902,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+rackplace AS58329,AS58329,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SISTEM INTERKONEKSI DATA AS150923,AS150923,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Zayo (Abovenet Communications Inc.) AS6461,AS6461,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Hextet Systems AS395089,AS395089,0,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Gtd Manquehue AS18822,AS18822,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Hostserver GmbH AS29140,AS29140,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Media Link Nusantara AS147108,AS147108,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Canal+ Telecom AS21351,AS21351,1,0,0,0,0,2c,0,-,-,-,0,0,-,0,0
+Montgomery Internet Exchange AS394642,AS394642,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+xTom Tokyo Legacy AS43959,AS43959,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Cleura AS42695,AS42695,0,0,1,1,1,1c,0,-,-,-,0,0,-,0,0
+NetDev Network AS216333,AS216333,1,0,1,1,0,-,0,-,-,-,0,0,-,0,0
+femsci AS48436,AS48436,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Fiber Telecom (FT) AS41327,AS41327,1,1,0,1,1,-,0,-,-,-,0,0,-,1,0
+Klara Modin AS209075,AS209075,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Pomona Consulting AS398223 AS398223,AS398223,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+SYSTEM36 AS59678,AS59678,1,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+Stay Connected AS61397,AS61397,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Sun Network Company AS328543,AS328543,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Comcast - Denver AS33652,AS33652,0,0,1,0,0,m,0,-,-,-,0,0,-,0,1
+MEGADATA-ISP AS136873,AS136873,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Ranks ITT AS23991,AS23991,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Verizon - Asia-Pac AS703,AS703,0,0,0,0,0,-,0,1500mbps,-,shortest-exit,0,0,-,1,0
+netcup GmbH AS197540,AS197540,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Clearfly Communications AS27400,AS27400,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SERVERD AS62000,AS62000,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+MyHostingSpace AS48070,AS48070,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Siti Cable Network Limited AS17747,AS17747,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Stellar Technologies Inc. AS14525,AS14525,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+NET MEGA LINK TELECOM AS272176,AS272176,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+AHPK TECHNOLOGIES PRIVATE LIMITED AS152129,AS152129,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Servperso Systems Transit ASN AS34872,AS34872,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+e-utp.net AS56662,AS56662,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+HEAnet AS1213,AS1213,1,0,1,0,1,4c,0,-,-,-,0,0,-,0,0
+186526 Network AS200536,AS200536,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+SupraNet Communications AS4150,AS4150,0,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+EKA SAPUTRA AS200240,AS200240,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+wecode AS56951,AS56951,1,0,1,0,0,-,0,-,1gbps,-,0,0,-,0,0
+Centronet Data Indonesia AS138884,AS138884,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Constantine Evans AS208768,AS208768,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+NYANET AS198342,AS198342,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+netsapiens AS397494,AS397494,1,0,0,0,1,1c,0,-,-,-,0,0,-,1,0
+Seattle Community Network AS54429,AS54429,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Nonattached Network AS57821,AS57821,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+August Internet AS50058 AS50058,AS50058,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+KLab.sh - The Komputer Laboratory AS216311,AS216311,0,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+Guillaume Mazoyer AS201281,AS201281,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Misaka.io AnyCast DNS Network AS50069,AS50069,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+QUALITY TELECOMUNICAÇÃO AS266915,AS266915,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Tom Siewert AS213392,AS213392,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+TMTecnologia AS262593,AS262593,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Tidar Lintas Nusa AS134648,AS134648,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+FSF Tecnologia AS61568,AS61568,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+LAX Online AS397163,AS397163,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Alwyzon AS40994,AS40994,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+godnet telecom AS61659,AS61659,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Martins & Martins Telecom AS268944,AS268944,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Net Infinito Telecom AS61768,AS61768,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+BAGE AS63150,AS63150,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Linked Lakes AS398835,AS398835,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+NETLI TELECOMUNICAÇÕES LTDA - ME AS264580,AS264580,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+e-planning AS399668,AS399668,1,0,1,1,0,-,0,-,-,-,0,0,-,0,0
+fiberONE.de AS200519,AS200519,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+INOVANET EMPREENDIMENTOS AS268959,AS268959,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Laurie Fuchs AS204017,AS204017,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+GRAFNET TELECOM AS267429,AS267429,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+TELEFLASH AS43140,AS43140,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+PT Metrosolusi Teknologi Indonesia AS141907,AS141907,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+stypr AS400671,AS400671,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+NTS Workspace AG AS39040 AS39040,AS39040,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+OpenCarrier eG AS41692,AS41692,0,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Dimensione AS202870,AS202870,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+ORBE TELECOM AS265158,AS265158,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+GTT Communications (AS5580) AS5580,AS5580,0,0,1,0,0,6c,0,-,-,-,0,0,1500,1,0
+Patrick Velder (Zurich) AS51786,AS51786,0,0,0,1,0,-,0,-,-,-,0,0,-,0,0
+Yuze Zhang AS142641,AS142641,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Alternative Enterprises (HK) AS150788,AS150788,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Ade Angelin Mulya AS147076,AS147076,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Nexril AS13830,AS13830,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Misaka.io @ Japan AS142616,AS142616,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+Vorsk AS22296,AS22296,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Boombas Carlo Medianet AS142331,AS142331,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+DOH Mullvad AS57138,AS57138,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Norlys Fibernet AS39642,AS39642,1,0,1,0,1,m,0,-,-,shortest-exit,0,0,-,0,0
+WOLKEN AS210397,AS210397,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+alwaysdata AS60362,AS60362,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Liquid Telecom AS30844,AS30844,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Speedbone GmbH AS15657,AS15657,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Sumber Data Indonesia AS56246 AS56246,AS56246,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Blix Solutions AS AS50304,AS50304,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+FENIX TELECOM AS268222,AS268222,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Cable Tica AS52228,AS52228,0,0,1,0,1,6c,0,-,-,-,0,0,-,0,0
+Not SURF Net AS1101,AS1101,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Microsoft AS8068 AS8068,AS8068,1,0,1,0,1,3c,0,-,-,-,0,0,-,1,0
+Quonix Networks AS17185,AS17185,1,0,0,0,1,1c,0,-,-,-,0,0,-,1,0
+TENNET TELECOM AS39543,AS39543,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Binary Racks AS59895,AS59895,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+TWD2 Education and Research Network AS209300,AS209300,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Abaclouda AS56987,AS56987,1,1,0,0,1,-,0,-,-,-,0,0,-,0,0
+Vimitel Network AS139547,AS139547,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+SAIONARA FERNANDES DA SILVA AS269375,AS269375,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+PT Juli Digital Nusantara AS150262,AS150262,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Edgio - AS26506 - OpenEdge AS26506,AS26506,0,0,0,0,0,-,0,-,-,-,0,0,-,1,0
+Azion Technologies AS52580,AS52580,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+ToscanaTLC AS57913,AS57913,1,0,1,1,1,-,0,-,-,-,0,0,-,0,0
+Capti Networks Pty Ltd AS142125,AS142125,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Arcdigital AS215971,AS215971,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Hoyos Consulting AS53597,AS53597,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+Serverius AS50673,AS50673,1,0,1,0,0,m,0,-,-,-,0,0,-,1,0
+Hawk Teknologi Solusi AS45786,AS45786,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Webhosting24 GmbH AS202401,AS202401,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+ISP Solutions SA AS34146,AS34146,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+obe.net AS3399,AS3399,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Wifikita AS140479,AS140479,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+CORESYSTEM AS42369,AS42369,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+AL HUTAIB NETSOL AS141862,AS141862,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Comcast AS7922,AS7922,0,0,1,0,0,m,0,-,-,-,0,0,-,0,1
+PT Arta Teletama Teknologi AS152394,AS152394,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+RIPE NCC K-Root Operations AS25152,AS25152,0,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+andrewnet AS1003,AS1003,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Digital Workspaces AS397165,AS397165,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Haruue Network Limited AS146950,AS146950,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Sify Technologies Limited AS9583,AS9583,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Dailymotion USA AS393269,AS393269,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Wikimedia Foundation AS14907,AS14907,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+HighSpeed Office AS39326,AS39326,0,0,0,0,1,m,0,-,100mbps,-,0,0,-,0,0
+Akardam Networks AS400919,AS400919,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Sami Yessou AS211480,AS211480,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+TNS CHILE AS267748,AS267748,0,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+Florian Bauer AS210833,AS210833,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Moritz Woermann AS213127,AS213127,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Vinters AS62217,AS62217,0,0,0,0,0,m,0,-,-,-,0,0,-,0,0
+Hyper Group Network Ltd. AS216324,AS216324,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+DTS New Zealand Limited AS24183,AS24183,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Interjet India AS141552,AS141552,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+SFR Business Team AS12566,AS12566,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+WebEx Communications AS13445,AS13445,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Nepustil AS33843 AS33843,AS33843,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+VAIMO AS329042,AS329042,1,0,1,0,0,-,0,-,1gbps,-,0,0,-,0,0
+Wavemax Internet AS263129,AS263129,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+PEMERINTAH KABUPATEN SOPPENG AS141058,AS141058,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+WiscNet AS2381,AS2381,1,0,0,0,0,-,0,-,-,-,1,0,-,0,0
+Sumber Data Indonesia AS58389 AS58389,AS58389,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Vodafone Libertel B.V. AS33915,AS33915,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+WEBCONEX AS211448,AS211448,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Neuronnexion AS9036,AS9036,1,0,1,0,1,m,0,-,-,-,0,0,-,0,0
+IPng Networks GmbH AS8298,AS8298,0,0,0,1,1,-,0,-,-,-,1,0,-,0,0
+Xtreme Networks - AS132870 AS132870,AS132870,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+"Misaka Network, Inc. (UK) AS58313",AS58313,1,0,0,0,1,m,0,-,-,-,0,0,-,0,0
+NS-Global DNS AS398987,AS398987,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+BZSOLUTIONS AS209408,AS209408,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+Core Mediatech (D-NET) AS9794,AS9794,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+"OzarksGo, LLC AS395662",AS395662,0,0,1,0,1,6c,0,-,-,-,0,0,-,0,0
+HOSTOWEB AS37738,AS37738,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+SysEleven R&D AS43902,AS43902,1,0,1,1,1,-,0,-,25gbps,-,0,0,-,0,0
+XMAX TELECOM AS263126,AS263126,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+Advanced Micro Defence Technologies Ltd. AS47326,AS47326,1,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+Metronet AS262262,AS262262,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+AS44574 Networks AS44574,AS44574,0,0,0,0,0,-,0,-,-,-,0,0,-,0,0
+ACT Communications AS141618,AS141618,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+RCN AS6079,AS6079,0,0,1,0,1,m,0,-,-,closest-exit,0,0,-,0,0
+Anze Jensterle AS211776,AS211776,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+CampoNet AS271203,AS271203,1,0,0,0,1,-,0,-,-,-,0,0,-,0,0
+EdgeUno International AS64124,AS64124,0,0,0,0,0,-,0,-,-,-,0,0,32,0,0
+Rochester Telephone Company AS393227,AS393227,1,0,1,0,0,-,0,-,-,-,0,0,-,0,0
+NetOne NL AS200132,AS200132,1,0,0,1,1,-,0,-,-,-,0,0,-,0,0
+TELENUSA AS147142,AS147142,1,0,1,0,1,-,0,-,-,-,0,0,-,0,0
+GTT Communications (AS4589) AS4589,AS4589,0,0,1,0,0,6c,0,-,-,-,0,0,1500,1,0
